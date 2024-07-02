@@ -1,0 +1,15 @@
+#ifndef _DEFINES_H
+#define _DEFINES_H
+
+#define SCREEN_WIDTH 600
+#define SCREEN_HEIGHT 600
+
+#define BATTERY_LIFE 60
+#define UPGRADES_AMOUNT 3
+#define STARTING_PIXEL_SPEED 20
+#define SPEEDUP_MULTIPLIER 3
+
+#define UPGRADES_OFFSET_X 140
+#define UPGRADES_OFFSET_Y 90
+
+#endif

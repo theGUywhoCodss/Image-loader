@@ -1,0 +1,13 @@
+main.data
+main.exe
+main
+main.html
+main.js
+main.wasm
+main.zip
+images/BarValue.xcf
+images/gameGUI.xcf
+images/upgrades.xcf
+obj/game.o
+obj/imageDraw.o
+obj/main.o
